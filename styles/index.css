@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.content {
+    margin: 8rem 0px;
+}
+
+.heading-content {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.heading {
+    font-size: 36px; 
+    padding: 24px;
+}
+
+.heading-paragraph {
+    font-size: 24px; 
+}
+
+.email-input {
+    width: 50%;
+    margin: 0px auto 12px auto;
+}
+
+.content-img {
+    width: 64%;
+}
